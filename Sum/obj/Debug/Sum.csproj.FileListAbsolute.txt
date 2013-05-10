@@ -1,0 +1,5 @@
+D:\Documents\C#\SumSol\Sum\bin\Debug\Sum.dll
+D:\Documents\C#\SumSol\Sum\bin\Debug\Sum.pdb
+D:\Documents\C#\SumSol\Sum\obj\Debug\Sum.csprojResolveAssemblyReference.cache
+D:\Documents\C#\SumSol\Sum\obj\Debug\Sum.dll
+D:\Documents\C#\SumSol\Sum\obj\Debug\Sum.pdb

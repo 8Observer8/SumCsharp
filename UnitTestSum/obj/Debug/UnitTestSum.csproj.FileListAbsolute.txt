@@ -1,0 +1,7 @@
+D:\Documents\C#\SumSol\UnitTestSum\bin\Debug\UnitTestSum.dll
+D:\Documents\C#\SumSol\UnitTestSum\bin\Debug\UnitTestSum.pdb
+D:\Documents\C#\SumSol\UnitTestSum\bin\Debug\Sum.dll
+D:\Documents\C#\SumSol\UnitTestSum\bin\Debug\Sum.pdb
+D:\Documents\C#\SumSol\UnitTestSum\obj\Debug\UnitTestSum.csprojResolveAssemblyReference.cache
+D:\Documents\C#\SumSol\UnitTestSum\obj\Debug\UnitTestSum.dll
+D:\Documents\C#\SumSol\UnitTestSum\obj\Debug\UnitTestSum.pdb

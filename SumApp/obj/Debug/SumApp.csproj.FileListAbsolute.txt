@@ -1,0 +1,8 @@
+D:\Documents\C#\SumSol\SumApp\bin\Debug\SumApp.exe.config
+D:\Documents\C#\SumSol\SumApp\bin\Debug\SumApp.exe
+D:\Documents\C#\SumSol\SumApp\bin\Debug\SumApp.pdb
+D:\Documents\C#\SumSol\SumApp\bin\Debug\Sum.dll
+D:\Documents\C#\SumSol\SumApp\bin\Debug\Sum.pdb
+D:\Documents\C#\SumSol\SumApp\obj\Debug\SumApp.csprojResolveAssemblyReference.cache
+D:\Documents\C#\SumSol\SumApp\obj\Debug\SumApp.exe
+D:\Documents\C#\SumSol\SumApp\obj\Debug\SumApp.pdb
